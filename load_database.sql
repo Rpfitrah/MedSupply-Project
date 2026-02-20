@@ -58,3 +58,8 @@ CREATE TABLE public.transactions_item  -- create transactions item table with co
 
 
 */
+
+DROP Table IF EXISTS public.master_products;
+DROP Table IF EXISTS public.customers;
+DROP Table IF EXISTS public.transactions_main;
+DROP Table IF EXISTS public.transactions_item;
