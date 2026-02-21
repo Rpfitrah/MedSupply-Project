@@ -1,8 +1,14 @@
 Domain: Distributor/Supply Chain | Audience: C-Level | Trend: DA Hiring 2026
 
 F. FIND — 3 Kolom Utama
+# AI:
 grand_total (transactions_main) + invoice_status (transactions_main) + inden_flag (transactions_item)
 Ketiganya langsung menyentuh cash flow dan fulfillment risk — bahasa C-level.
+
+# Saya
+**Setuju** - AI suggestion sudah tepat
+**Alasan**:
+1. grand_total + invoice_status ← 
 
 R. READ — Pattern Data
 inden_flag menandai order yang tidak bisa langsung dipenuhi dari stok. Kombinasi dengan invoice_status yang punya 5% missing kemungkinan besar adalah transaksi yang belum selesai/dispute. grand_total memungkinkan segmentasi revenue per customer/facility_type. Pattern yang terbaca: ada potensi revenue tertahan akibat inden yang belum terselesaikan.
