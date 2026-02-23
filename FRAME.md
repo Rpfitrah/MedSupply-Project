@@ -131,3 +131,10 @@ Dari 350 transaksi dengan total revenue estimasi, output query ini akan menunjuk
 5. Portfolio Title
 Uncollected Revenue Tracker: Identifying Cash Flow Risk from Indent Orders in B2B Distribution
 Sub-judul GitHub: "SQL-based analysis to quantify revenue at risk from unfulfilled indent orders and unpaid invoices — built for C-level decision making."
+
+# Saya
+**Tidak Setuju**
+**Alasan**
+mungkin lebih baik di beri judul
+Revenue Pipeline Audit: Identifying Collection Bottlenecks in Healthcare Distribution
+dengan Sub-judul: "SQL-based KPI framework to quantify and prioritize revenue recovery across invoice lifecycle stages — built for C-level decision making in B2B medical device distribution."
